@@ -1,0 +1,13 @@
+h1,h2,h3{
+    color: #FFFF;
+}
+
+.form-input{
+    width: 50%;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.msg{
+    color: #FFFF;
+}
